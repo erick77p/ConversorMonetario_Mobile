@@ -14,7 +14,7 @@ Tecnologias utilizadas
 
 📦 Instalação e uso
 - Clone este repositório:
-git clone https://github.com/seu-usuario/conversor-moeda.git
+git clone https://github.com/erick77p/ConversorMonetario_Mobile
 - Acesse a pasta do projeto:
 cd conversor-moeda
 - Instale as dependências:
